@@ -11,26 +11,21 @@ The platform helps decentralizing votes/poll results by putting them on the Bloc
 
 ## Solution
 Our project resolves this issues by: 
-- allowing everyone to have their own voice
-- generating a smart contract for the creator to choose how many people can vote
-- the results are updated, appears on the blockchain (and we generate a new NFT with the current results) 
+- Allowing everyone to have their own voice
+- Generating a smart contract for the creator to choose how many people can vote
+- The results are updated, appears on the blockchain (and we generate a new NFT with the current results) 
 
-# Installation
-
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
+## Installation
+ ``commandes``
 
 
 Ensuite vous pouvez montrer ce que vous obtenez au final...
 
-## Démarrage
+## Team and comments
+_Created by Poll Of Autumn_
 
-Dites comment faire pour lancer votre projet
 
-## Fabriqué avec
+## Delivery
 
 Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
 
