@@ -7,6 +7,7 @@ Platform to create your own polls on the Blockchain created by 3 Epitech Student
 - Lack of transparency on votes' results (expl : for elections) 
 - Results not necessarily updated
 - The creator can not choose how many people will participate
+- 
 The platform helps decentralizing votes/poll results by putting them on the Blockchain with the history of every actions 
 
 ## Solution 💡
