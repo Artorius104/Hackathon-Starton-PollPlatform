@@ -1,23 +1,21 @@
-# Titre du projet
-_(juste en dessous des badges sympatiques à placer)_
+# Poll of Autumn
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
+Platform to create your own polls on the Blockchain created by 3 Epitech Students
 
-Une petite description du projet
 
-## Pour commencer
+## Problem
+- Lack of transparency on votes' results (expl : for elections) 
+- Results not necessarily updated
+- The creator can not choose how many people will participate
+The platform helps decentralizing votes/poll results by putting them on the Blockchain with the history of every actions 
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+## Solution
+Our project resolves this issues by: 
+- allowing everyone to have their own voice
+- generating a smart contract for the creator to choose how many people can vote
+- the results are updated, appears on the blockchain (and we generate a new NFT with the current results) 
 
-### Pré-requis
-
-Ce qu'il est requis pour commencer avec votre projet...
-
-- Programme 1
-- Programme 2
-- etc...
-
-### Installation
+# Installation
 
 Les étapes pour installer votre programme....
 
