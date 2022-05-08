@@ -29,14 +29,10 @@ _Created by Poll Of Autumn_
 
 Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
 
-_Hackaton organised by **Staron**:_
-
-[Website](https://www.starton.io/)
-[Discord](https://discord.com/invite/2jUShxHddn)
-[Telegram](https://t.me/starton_io)
-
+_Hackaton organised by **[Starton]**(https://www.starton.io/)_
 
 _Sponsors_
-[Binance](https://www.binance.com/fr) 
-[Ledger](https://www.ledger.com/) 
+- [Binance](https://www.binance.com/fr) 
+
+- [Ledger](https://www.ledger.com/) 
 
