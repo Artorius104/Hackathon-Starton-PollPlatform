@@ -29,7 +29,7 @@ _Created by Poll Of Autumn_
 
 Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
 
-_Hackaton organised by **[Starton]**(https://www.starton.io/)_
+_Hackaton organised by [Starton](https://www.starton.io/)_
 
 _Sponsors_
 - [Binance](https://www.binance.com/fr) 
