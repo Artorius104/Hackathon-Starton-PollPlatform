@@ -1,11 +1,17 @@
 import React from 'react';
 import './App.css';
 import SignIn from './SignIn';
+import SignUp from './SignUp';
+import CreatePoll from './CreatePoll';
+import PollAnswer from './PollAnswer';
 
 function App() {
   return (
     <div className="App">
-      <SignIn />
+      {/* <SignIn /> */}
+      {/* <SignUp /> */}
+      <CreatePoll />
+      {/* <PollAnswer /> */}
     </div>
   );
 }
